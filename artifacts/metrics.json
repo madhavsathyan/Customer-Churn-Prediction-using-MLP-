@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.7455061494796594,
+  "precision": 0.514218009478673,
+  "recall": 0.7722419928825622,
+  "f1_score": 0.6173541963015647,
+  "roc_auc": 0.8415819789411894,
+  "pr_auc": 0.6418605057811035,
+  "default_threshold": 0.5,
+  "best_cost_threshold": 0.14,
+  "best_f1_threshold": 0.58,
+  "best_epoch": 55
+}
