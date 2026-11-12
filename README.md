@@ -122,6 +122,7 @@ Select **Run All Cells** from the top menu. The notebook runs deterministically 
 4. **Electronic Check Friction**: Customers paying via electronic check churn at significantly higher rates than auto-debit or credit card users. Offering a monthly discount (\$5/mo) for auto-pay enrollment will directly improve customer retention.
 
 ---
+Live demo link= https://madhavsathyan-customer-churn-prediction-using-mlp--app-efjv7s.streamlit.app/
 
 ## 👥 Viva & Oral Defense Highlights
 The notebook concludes with a comprehensive academic Q&A covering:
